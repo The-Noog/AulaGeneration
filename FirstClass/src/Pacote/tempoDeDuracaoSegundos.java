@@ -20,6 +20,7 @@ public class tempoDeDuracaoSegundos {
 		
 		System.out.print(totalDesegundos+" é: "+ horas +" horas, "+ minutos+ " minutos e " + segundos+ "segundos.");
 		
+	
 		
 		teclado.close();
 	}
