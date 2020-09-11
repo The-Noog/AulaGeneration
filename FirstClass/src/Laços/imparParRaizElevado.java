@@ -26,10 +26,10 @@ public class imparParRaizElevado
 			System.out.printf("O número %d é par e sua raíz quadrada é %.1f",num, raiz);
 			
 		}
-		else
+		else {
 			raiz = num*num;
 			System.out.printf("O número %d é impar e seu número elevado é %.1f", num, raiz);
-			
+		}
 		tec.close();
 	}
 
