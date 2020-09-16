@@ -43,9 +43,9 @@ public class desafio
 				SOMAD = SOMAD + matriz[LINHA][COLUNA];
 				}
 				}
-				
-				}
 				System.out.printf("\n O valor da diagonal princial é ", SOMAD, "\n", "\n");
+				}
+				
 				tec.close();
 				
 				}	

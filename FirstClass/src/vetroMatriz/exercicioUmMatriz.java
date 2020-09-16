@@ -13,7 +13,7 @@ public class exercicioUmMatriz
 	{
 	Scanner tec = new Scanner(System.in);
 	final int L = 3;
-	final int C= 3;
+	final int C = 3;
 	
 	int [][] matriz = new int [L][C];
 	int linha = 0, coluna = 0, maiorValor = 0;
