@@ -15,11 +15,6 @@ public class Cadastro {
 		
 		
 		System.out.println(prof);
-		
-		
-		
-		
-		
-		
+					
 	}
 }
